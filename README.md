@@ -64,5 +64,7 @@ Key indicators derived from consumption behavior:
 git clone https://github.com/your-username/energy-fraud-detection.git
 cd energy-fraud-detection
 
-link Render:
-https://energy-fraud-detector.onrender.com
+## 🌐 Live Demo
+
+👉 [Access the deployed application](https://energy-fraud-detector.onrender.com)
+
