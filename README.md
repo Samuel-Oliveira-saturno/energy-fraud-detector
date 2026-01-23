@@ -68,8 +68,9 @@ cd energy-fraud-detection
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-green?style=for-the-badge)](https://energy-fraud-detector.onrender.com)
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)]()
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)]()
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
+
 
 
 
