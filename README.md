@@ -1,5 +1,13 @@
 # ⚡ Energy Fraud Detection – Decision Support System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-green?style=for-the-badge)](https://energy-fraud-detector.onrender.com)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
+
+---
+
+## 📌 Overview
+
 This project presents a **machine learning–based decision support system**
 for detecting **non-technical losses (energy fraud)** using historical
 electricity consumption data.
@@ -8,16 +16,16 @@ The application was developed as a **technical challenge** and demonstrates
 how data science models can be transformed into **practical tools** for
 utilities, research institutes, and regulatory environments.
 
----
-
-## 🎯 Project Objective
-
-- Identify anomalous consumption patterns associated with energy fraud
-- Support inspection teams by prioritizing high-risk consumers
-- Provide explainable, auditable, and scalable fraud risk indicators
-
 > ⚠️ This system is intended as a **decision support tool**, not an automated
 fraud accusation mechanism.
+
+---
+
+## 🎯 Project Objectives
+
+- Identify anomalous consumption patterns associated with energy fraud  
+- Support inspection teams by prioritizing high-risk consumers  
+- Provide explainable, auditable, and scalable fraud risk indicators  
 
 ---
 
@@ -47,13 +55,20 @@ Key indicators derived from consumption behavior:
 
 ## 🖥️ Application Features
 
-- 📂 CSV dataset upload
-- 📦 Trained model upload (.pkl)
-- 🎛️ Adjustable fraud risk thresholds
-- 📊 Interactive dashboards and visualizations
-- 🧠 Individual risk explanation
-- 📄 PDF inspection reports (summary and individual)
-- 📋 Inspection priority list
+- 📂 CSV dataset upload  
+- 📦 Trained model upload (`.pkl`)  
+- 🎛️ Adjustable fraud risk thresholds  
+- 📊 Interactive dashboards and visualizations  
+- 🧠 Individual risk explanation  
+- 📄 PDF inspection reports (summary and individual)  
+- 📋 Inspection priority list  
+
+---
+
+## 🌐 Live Application
+
+👉 **Access the deployed application:**  
+https://energy-fraud-detector.onrender.com
 
 ---
 
@@ -61,15 +76,9 @@ Key indicators derived from consumption behavior:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/energy-fraud-detection.git
-cd energy-fraud-detection
+git clone https://github.com/Samuel-Oliveira-saturno/energy-fraud-detector.git
+cd energy-fraud-detector
 
-# ⚡ Energy Fraud Detection – Decision Support System
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-green?style=for-the-badge)](https://energy-fraud-detector.onrender.com)
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-red)](https://streamlit.io/)
 
 
 
